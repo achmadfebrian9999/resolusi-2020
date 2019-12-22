@@ -1,4 +1,3 @@
 Resolusi Januari 2020
 - Menyelesaikan pembelajaran Git dan Github di chanel Web Programming Unpas (Sandhika Galih).
 - mengulang pembelajaran CSS
-- tingkatkan skill Javascrip
